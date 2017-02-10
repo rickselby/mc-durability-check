@@ -12,7 +12,7 @@ import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 /**
  * Created by rs506 on 10/02/17.
  */
-@Mod(modid = DurabilityCheck.modId, name = DurabilityCheck.name, version = DurabilityCheck.version, acceptedMinecraftVersions = "[1.11]")
+@Mod(modid = DurabilityCheck.modId, name = DurabilityCheck.name, version = DurabilityCheck.version, acceptedMinecraftVersions = "[1.11,)")
 public class DurabilityCheck {
 
     public static final String modId = "durabilitycheck";
