@@ -1,0 +1,16 @@
+[
+{
+  "modid": "durabilitycheck",
+  "name": "Durability Check",
+  "description": "Warn if a tool is at low durability",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["dJomp"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
